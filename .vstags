@@ -1,0 +1,20 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AUTOLOAD	lib/Amazon/STS.pm	97;"	s
+Amazon::STS	lib/Amazon/STS.pm	1;"	p
+Amazon::STS::Response	lib/Amazon/STS/Response.pm	1;"	p
+Amazon::STS::Types	lib/Amazon/STS/Types.pm	1;"	p
+BUILD	lib/Amazon/STS.pm	84;"	s
+BUILD	lib/Amazon/STS/Response.pm	13;"	s
+_build_endpoint	lib/Amazon/STS.pm	75;"	s
+_escape_params	lib/Amazon/STS.pm	141;"	s
+as_hashref	lib/Amazon/STS/Response.pm	23;"	s
+content	lib/Amazon/STS/Response.pm	19;"	s
+is_success	lib/Amazon/STS/Response.pm	27;"	s
+main	lib/Amazon/STS.pm	152;"	p
+request	lib/Amazon/STS.pm	107;"	s
+signer	lib/Amazon/STS.pm	67;"	s

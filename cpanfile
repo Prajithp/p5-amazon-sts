@@ -1,0 +1,9 @@
+requires Moose;
+requires URI::Escape;
+requires Encode;
+requires Digest::SHA;
+requires LWP::UserAgent;
+requires HTTP::Request;
+requires HTTP::Date;
+requires AWS::Signature4;
+requires Config::AWS;
